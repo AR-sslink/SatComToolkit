@@ -32,7 +32,3 @@ This repository is organized into several sections:
 
 To get started with the SatComToolkit, follow these steps:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/AR-sslink/SatelliteCom_Toolkit.git
