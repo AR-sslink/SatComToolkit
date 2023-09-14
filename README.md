@@ -1,6 +1,6 @@
-# SatelliteCom_Toolkit
+# SateComToolkit
 
-Welcome to the SatelliteCom_Toolkit repository! This project is dedicated to tools, code, and resources for satellite communication projects.
+Welcome to the SatComToolkit repository! This project is dedicated to tools, code, and resources for satellite communication projects.
 
 ## Table of Contents
 
@@ -27,8 +27,4 @@ This repository is organized into several sections:
 4. **Example Projects**: Practical examples and use cases for satellite communication, demonstrating how to send and receive data from satellites.
 
 5. **Resources**: A curated list of links to external resources, research papers, and books to deepen your understanding of satellite communication.
-
-## Getting Started
-
-To get started with the SatComToolkit, follow these steps:
 
